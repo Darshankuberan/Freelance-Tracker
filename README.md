@@ -14,16 +14,6 @@ A lightweight and customizable Excel-based tool to help freelancers track projec
 
 ---
 
-## 📷 Screenshots
-
-| Project Status Table | Insights Dashboard |
-|----------------------|--------------------|
-| ![Status Table](link-to-screenshot1) | ![Dashboard](link-to-screenshot2) |
-
-> 🔒 *Note: The dataset shown here is not real. It's generated for learning and analysis purposes.*
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone this repo** or download the Excel file.
